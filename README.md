@@ -1,7 +1,5 @@
-# market-strategy-analysis
-Python scripts for market trading strategy analysis and backtest with basic infographic visualisation
 # Market Strategy Analysis Scripts
-
+Python scripts for market trading strategy analysis and backtest with basic infographic visualisation
 ---
 
 ##  Overview
