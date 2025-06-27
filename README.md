@@ -17,7 +17,7 @@ This repository contains Python scripts for analyzing and visualizing backtested
 2. Install the required Python packages:
 
 ```bash
-pip install pandas plotly
+pip install pandas plotly numpy
 ````
 
 3. Run the script:
